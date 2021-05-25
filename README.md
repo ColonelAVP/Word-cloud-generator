@@ -45,7 +45,8 @@ To get accurate shape use large datasets like lyrics of songs or wikipedia parag
 I have used a song by Eminem as [Dataset](https://github.com/ColonelAVP/Word-cloud-generator/blob/master/Dataset.txt).
 You can use that as well. 
 Also You can generate data directly by importing wikipedia and then scraping from wikipedia page.
-Use png format images. Incase you want to use my images, check
+Use png format images.
+I have provided sample images for masks. Click [sample masks](https://github.com/ColonelAVP/Word-cloud-generator/issues/2#issue-901077092)
 
 ## Reference
 * [Word-cloud-generator](https://towardsdatascience.com/simple-wordcloud-in-python-2ae54a9f58e5)
