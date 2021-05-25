@@ -46,6 +46,7 @@ I have used a song by Eminem as [Dataset](https://github.com/ColonelAVP/Word-clo
 You can use that as well. 
 Also You can generate data directly by importing wikipedia and then scraping from wikipedia page.
 Use png format images.
+
 I have provided sample images for masks. Click [sample masks](https://github.com/ColonelAVP/Word-cloud-generator/issues/2#issue-901077092)
 
 ## Reference
