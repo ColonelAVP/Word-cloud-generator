@@ -47,7 +47,7 @@ You can use that as well.
 Also You can generate data directly by importing wikipedia and then scraping from wikipedia page.
 Use png format images.
 
-I have provided sample images for masks. Click [sample masks](https://github.com/ColonelAVP/Word-cloud-generator/issues/2#issue-901077092)
+I have provided sample images for masks. Click [sample masks](https://github.com/ColonelAVP/Word-cloud-generator/tree/master/Sample)
 
 ## Reference
 * [Word-cloud-generator](https://towardsdatascience.com/simple-wordcloud-in-python-2ae54a9f58e5)
