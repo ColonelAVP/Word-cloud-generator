@@ -1,4 +1,4 @@
-# ▶️ Word-cloud-generator
+# ▶️ Word-cloud-generator ◀️
 ## ⏩ Introduction
 In this project, you'll be making a word cloud generator using dataset.
 A word cloud is a visual representation of text data. Words are usually single words, and the importance of each is shown with font size or color. Python fortunately has a wordcloud library allowing to build them.
