@@ -1,5 +1,5 @@
 # ▶️ Word-cloud-generator
-## ◻️ Introduction
+## ⏩ Introduction
 In this project, you'll be making a word cloud generator using dataset.
 A word cloud is a visual representation of text data. Words are usually single words, and the importance of each is shown with font size or color. Python fortunately has a wordcloud library allowing to build them.
 
@@ -19,7 +19,7 @@ A word cloud is a visual representation of text data. Words are usually single w
 ``pip install numpy``
 ``pip install Pillow``
 
-## ◻️ Steps 📝
+## ⏩ Steps 📝
 ```Python
 Step1: Import Required libraries
 Step2: Generate Data for wordcloud
@@ -49,14 +49,14 @@ Use png format images.
 
 I have provided sample images for masks. Click [sample masks](https://github.com/ColonelAVP/Word-cloud-generator/tree/master/Sample)
 
-## ◻️ Reference 🔎
+## ⏩ Reference 🔎
 * [Word-cloud-generator](https://towardsdatascience.com/simple-wordcloud-in-python-2ae54a9f58e5)
 * [Word Cloud Docs](https://github.com/ColonelAVP/Word-cloud-generator/blob/master/wordcloud.py)
 
-## ◻️ Contributions 🤲🏻
+## ⏩ Contributions 🤲🏻
 Contributions are always welcomed. Make sure you check [Contribution info](https://github.com/ColonelAVP/Word-cloud-generator/blob/master/Contribution.md) before making pull requests.
 
-## ◻️ Screenshots 📷
+## ⏩ Screenshots 📷
 >***Word-cloud of a Upvote***
 
 ![alt tag](https://user-images.githubusercontent.com/78366601/119533464-7da1b280-bda3-11eb-8f97-52fa1fb6f0ca.png)
